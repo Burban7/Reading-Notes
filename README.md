@@ -5,7 +5,7 @@
 
 ```markdown
 
-What is Growth Mindset?
+### What is Growth Mindset?
 
 - Bulleted
 - List
