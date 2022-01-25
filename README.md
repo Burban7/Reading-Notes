@@ -1,4 +1,7 @@
-# **Growth Mindset**
+# **Reading Notes (Code 102)**
+
+
+# Growth Mindset
 
 
 ### ***What is Growth Mindset?***
