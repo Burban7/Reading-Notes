@@ -1,6 +1,3 @@
-# **Reading Notes (Code 102)**
-
-
 # Growth Mindset
 
 
