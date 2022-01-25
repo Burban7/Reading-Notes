@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## My Reading Notes (Code 102)
 
 You can use the [editor on GitHub](https://github.com/Burban7/Reading-Notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
