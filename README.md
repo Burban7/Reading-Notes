@@ -22,4 +22,5 @@ Growth Mindset refers to a more receptive, open-minded way of thinking and learn
 
 ### ***Repository Directory***
 
-- 
+- [Learning Markdown](https://burban7.github.io/Reading-Notes/reading01-notes)
+
