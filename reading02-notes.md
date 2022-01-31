@@ -40,3 +40,31 @@ The shell is located within the terminal and is a part of the OS that defines ho
 # **Navigation in the Terminal**
 
 
+- Alot of commands in the terminal are named as an abbreivation of a words or words describing them.
+- Most commands in the terminal will rely on you being in the correct location.
+- Whenever you refer to a file or directory on the command line, you are reffering to a **path**.
+    - A path is a means to get to a particular file or directory.
+- There are two types of paths, **absolute** and **relative**, both can be used to get to the same destination.
+    - An **absolute path** will specify the location in relation to the root directory and will always begin with a forward slash.
+    - A **relative path** will specify the location in relation to where you are currently located in the system and does not begin with a slash.
+- The **`cd`** command is used to change the directory and can be run with or without a specified location, but is generally ran with a single command line argument which is the location you are changing to.
+
+
+# **About Files**
+
+
+- In the terminal, everything is a file.
+- A **file extension** is normally a set of 2-4 characters at the end of a file that denotes what type of file it is.
+    - **`.exe`** is an executable file or program.
+    - **`.txt`** is a plain text file.
+    - **`.png`**, **`.gif`**, **`.jpg`** are image files
+- Some systems are case-sensitive while others are not. Case-sensitive files will see files with the same name as completely seperate files if one has a difference in casing.
+    - The command line can also be case-sensitive.
+- You can use spaces in your file names by wrapping the text in either single or double quotations.
+- Some files in the terminal are hidden and you can create these files by putting a period before the name.
+
+*************
+
+### ***Repository Directory***
+
+- 
