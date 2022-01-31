@@ -65,6 +65,25 @@ The shell is located within the terminal and is a part of the OS that defines ho
 
 *************
 
+# *Terminal Cheat Sheet*
+
+- **`echo $shell`** is used to confirm which shell you are working in.
+- **`pwd`** is used to find which file or directory you are located in.
+- **`ls`** is used to see what is in a specific file or directory.
+- In the command **`ls [options] [location]`**, the items in the square brackets are optional and the command can be run with or without them.
+- **`~`** is a shortcut for your home directory.
+- **`.text`** is a reference to your current directory.
+- **`..`** is a reference to the parent directory.
+- **`cd`** or **`cd [location]`** is used to move around the terminal.
+- Hitting the **tab key** invokes an auto-completion when typing a path.
+- **`/var/log`** stores log files for various system programs.
+- **`/bin`** shows the location of several commonly used programs.
+- **`/usr/bin`** shows another location for commonly used programs.
+- **`file [path]`** will tell you the type of file the specified path is.
+- **`ls -a`** shows hidden files or directories.
+
+**************
+
 ### ***Repository Directory***
 
 - [Growth Mindset](https://burban7.github.io/Reading-Notes)
