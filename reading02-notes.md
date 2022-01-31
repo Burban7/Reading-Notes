@@ -1,9 +1,5 @@
-# The Coder's Computer
+# **Choosing a Text Editor**
 
-
-### ***Choosing a Text Editor***
-
-**********
 
 In a developer's line of work, choosing the right text editor for you can be a very vital step in the developing process. In short, a text editor is a piece of software (accessed either by downloading onto your device or online) that allows you to write and manage text. Every computer will come with its own built-in text editor, however they are typically bare-bones and as simple as it can get, offering very litle in the way of additional features. While most text editors are the same apart from some minor differences in features, it is important to understand that the best editor for you will be up to your own personal preference and experience. In general, you want to find an editor that you enjoy using and can successfully complete the tasks you are asking of it. With that being said, here are some key features you want to look out for:
 
@@ -23,3 +19,24 @@ In a developer's line of work, choosing the right text editor for you can be a v
 4. ***Extensions***
     - Extensions are like plugins for your text editor.
     - A text editor with a good selection of extensions will give you the ability to add functionality as needed.
+
+
+# **The Terminal**
+
+
+### ***What is a Command Line?***
+
+A command line, or terminal, is a text-based interface to the system where you are able to enter commands and receive visual feedback in the form of text.
+- Typically presents you with a prompt and the text you input will be displayed after it.
+- Normally, you will be issuing commands
+
+### ***The Shell***
+
+The shell is located within the terminal and is a part of the OS that defines how the terminal will behave and look after running/executing commands.
+- You can use the `echo` command to confrim you are working in the correct shell.
+- Text on screen should end with the correct shell name
+
+
+# **Navigation in the Terminal**
+
+
