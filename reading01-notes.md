@@ -88,4 +88,4 @@ For more information on the general description of Markdown check out [What is M
 ### ***Repository Directory***
 
 - [Growth Mindset](https://burban7.github.io/Reading-Notes/)
-- [The Terminal](https://burban7.github.io/Reading-Notes/reading02-notes)
+- [The Coder's Computer](https://burban7.github.io/Reading-Notes/reading02-notes)
