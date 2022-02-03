@@ -88,3 +88,4 @@ The shell is located within the terminal and is a part of the OS that defines ho
 
 - [Growth Mindset](https://burban7.github.io/Reading-Notes)
 - [Learning Markdown](https://burban7.github.io/Reading-Notes/reading01-notes)
+- [Revisions and the Cloud](https://burban7.github.io/Reading-Notes/reading03-notes)
