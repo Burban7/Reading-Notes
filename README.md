@@ -24,3 +24,4 @@ Growth Mindset refers to a more receptive, open-minded way of thinking and learn
 
 - [Learning Markdown](https://burban7.github.io/Reading-Notes/reading01-notes)
 - [The Coder's Computer](https://burban7.github.io/Reading-Notes/reading02-notes)
+- [Revisions and the Cloud](https://burban7.github.io/Reading-Notes/reading03-notes)
