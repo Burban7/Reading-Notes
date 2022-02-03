@@ -122,4 +122,6 @@
 
 **********************
 
-- 
+- [Growth Mindset](https://burban7.github.io/Reading-Notes)
+- [Learning Markdown](https://burban7.github.io/Reading-Notes/reading01-notes)
+- [The Coder's Computer](https://burban7.github.io/Reading-Notes/reading02-notes)
