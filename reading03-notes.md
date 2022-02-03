@@ -127,3 +127,4 @@
 - [The Coder's Computer](https://burban7.github.io/Reading-Notes/reading02-notes)
 - [Structuring Web Pages with HTML](https://burban7.github.io/Reading-Notes/reading04-notes)
 - [Design Web Pages with CSS](https://burban7.github.io/Reading-Notes/reading05-notes)
+- [Dynamic Web Pages with JavaScript](https://burban7.github.io/Reading-Notes/reading06-notes)
