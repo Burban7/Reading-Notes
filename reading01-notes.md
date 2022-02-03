@@ -91,3 +91,4 @@ For more information on the general description of Markdown check out [What is M
 - [The Coder's Computer](https://burban7.github.io/Reading-Notes/reading02-notes)
 - [Revisions and the Cloud](https://burban7.github.io/Reading-Notes/reading03-notes)
 - [Structuring Web Pages with HTML](https://burban7.github.io/Reading-Notes/reading04-notes)
+- [Design Web Pages with CSS](https://burban7.github.io/Reading-Notes/reading05-notes)
