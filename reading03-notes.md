@@ -126,3 +126,4 @@
 - [Learning Markdown](https://burban7.github.io/Reading-Notes/reading01-notes)
 - [The Coder's Computer](https://burban7.github.io/Reading-Notes/reading02-notes)
 - [Structuring Web Pages with HTML](https://burban7.github.io/Reading-Notes/reading04-notes)
+- [Design Web Pages with CSS](https://burban7.github.io/Reading-Notes/reading05-notes)
