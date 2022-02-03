@@ -90,6 +90,7 @@
 - [The Coder's Computer](https://burban7.github.io/Reading-Notes/reading02-notes)
 - [Revisions and the Cloud](https://burban7.github.io/Reading-Notes/reading03-notes)
 - [Design Web Pages with CSS](https://burban7.github.io/Reading-Notes/reading05-notes)
+- [Dynamic Web Pages with JavaScript](https://burban7.github.io/Reading-Notes/reading06-notes)
 
 
 
