@@ -89,4 +89,4 @@ For more information on the general description of Markdown check out [What is M
 
 - [Growth Mindset](https://burban7.github.io/Reading-Notes/)
 - [The Coder's Computer](https://burban7.github.io/Reading-Notes/reading02-notes)
-- [Revisions and the Cloud](https://burban7.github.io/Reading-Notes/reading01-notes)
+- [Revisions and the Cloud](https://burban7.github.io/Reading-Notes/reading03-notes)
