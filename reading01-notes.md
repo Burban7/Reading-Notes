@@ -87,7 +87,8 @@ For more information on the general description of Markdown check out [What is M
 
 ### ***Repository Directory***
 
-- [Growth Mindset](https://burban7.github.io/Reading-Notes/)
+- [Home Page](https://burban7.github.io/Reading-Notes)
+- [Growth Mindset](https://burban7.github.io/Reading-Notes/lab-01b)
 - [The Coder's Computer](https://burban7.github.io/Reading-Notes/reading02-notes)
 - [Revisions and the Cloud](https://burban7.github.io/Reading-Notes/reading03-notes)
 - [Structuring Web Pages with HTML](https://burban7.github.io/Reading-Notes/reading04-notes)
