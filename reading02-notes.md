@@ -86,7 +86,8 @@ The shell is located within the terminal and is a part of the OS that defines ho
 
 ### ***Repository Directory***
 
-- [Growth Mindset](https://burban7.github.io/Reading-Notes)
+- [Home Page](https://burban7.github.io/Reading-Notes)
+- [Growth Mindset](https://burban7.github.io/Reading-Notes/lab-01b)
 - [Learning Markdown](https://burban7.github.io/Reading-Notes/reading01-notes)
 - [Revisions and the Cloud](https://burban7.github.io/Reading-Notes/reading03-notes)
 - [Structuring Web Pages with HTML](https://burban7.github.io/Reading-Notes/reading04-notes)
